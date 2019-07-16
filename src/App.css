@@ -1,0 +1,165 @@
+#id-head {
+    /*display: inline-block;*/
+    width: 100%;
+    height: 60px;
+    position: relative;
+    background-color: rgba(22, 11, 34, 0.99);
+}
+.signal {
+    color: rgb(53, 135, 47);
+
+}
+.moblie {
+    color: rgb(244, 241, 247);
+}
+
+.wifi {
+    color: rgb(244, 241, 247);
+    font-size: 24px;
+}
+.middle {
+    color: rgb(239, 236, 236);
+    text-align: center;
+}
+.right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: #f6f7f7;
+    width: 37px;
+    text-align: right;
+    padding: 0px 8px 1px 1px;
+}
+.electric {
+    font-size: 24px;
+}
+.today {
+    display: block;
+}
+
+div.style {
+    width: 100%;
+    border: 1px solid rgb(217, 217, 217);
+    border-radius: 4px;
+}
+.ant-fullcalendar-calendar-body {
+    padding: 8px 12px;
+    width: 100%;
+}
+
+.ant-fullcalendar-header {
+    padding: 11px 16px 11px 0;
+    text-align: right;
+    width: 100%;
+}
+.remind {
+    display: inline-block;
+    padding: 1px 29px 4px 16px;
+}
+.upanddown {
+
+    position: relative;
+    left: 175px;
+    font-size: 24px;
+    color: blue;
+}
+#id-remind {
+    position: relative;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    color: gray;
+}
+#id-content {
+    position: relative;
+    border-bottom: 1px solid;
+    color: #a6a1a1;
+}
+.contentleft {
+    color: #bbb2b2;
+}
+.contentright {
+    position: absolute;
+    top: 17%;
+    left: 290px;
+    font-size: 13px;
+    color: #160b22;
+}
+
+.cssfortime {
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+#id-contentcopy {
+    position: relative;
+}
+.contentleftcopy {
+    position: absolute;
+    top: 68%;
+    left: 1px;
+    font-size: 13px;
+    color: #c0bec1;
+}
+.title {
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.content {
+    color: #b3b3b9;
+}
+.roleone {
+    color: #FF9800;
+}
+.roletwo {
+    color: #03A9F4;
+}
+.contentrightcopy {
+    position: absolute;
+    left: 289px;
+    font-size: 13px;
+    color: #160b22;
+    bottom: -28px;
+}
+#work-platform {
+    position: fixed;
+    display: inline-block;
+    bottom: 7px;
+    left: 0;
+    right: 0;
+    background: white;
+}
+.icon {
+    display: inline-block;
+    padding: 5px 8px 6px 12px;
+    font-size: 28px;
+}
+.item {
+    display: inline-block;
+    padding: 0px 14px 7px 21px;
+}
+.fold.close {
+    height: 150px;
+    overflow: hidden;
+}
+.up {
+    transform: rotate(180deg);
+    display: inline-block;
+}
+.active {
+    color: #141c87;
+}
+.highlight {
+    color: #141c87;
+}
+.eachitem {
+    position: relative;
+    bottom: -15px;
+    left: -29px;
+    font-size: 2px;
+}
+.ant-fullcalendar-value:hover {
+    background: #9ec4d6;
+    cursor: pointer;
+}
+
